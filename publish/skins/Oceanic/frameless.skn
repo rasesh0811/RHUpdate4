@@ -3,7 +3,7 @@
   <layout>frameless_homepage</layout>
   <name>frameless_homepage</name>
   <layoutType>frameless</layoutType>
-  <version>2022.0.0</version>
+  <version>2022.4.0</version>
   <variables>
     <css>
       <theme-layout-font>&#39;Open Sans&#39;</theme-layout-font>
@@ -122,7 +122,7 @@
           <onclick>EVT_DOWNLOAD_PDF</onclick>
           <show>@showPdf</show>
         </custom_buttonsitem>
-         <custom_buttonsitem>
+        <custom_buttonsitem>
           <id>6</id>
           <name>Share</name>
           <tabId>Share</tabId>
